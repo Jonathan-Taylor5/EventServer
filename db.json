@@ -2,6 +2,7 @@
     "promo": [
         {
         "id": 123,
+        "quantity" : 1,
         "name": "2022 Ryan Blaney Family Foundation Alzheimer's Awareness Fan Pack",
         "description": "BBBBBBBBBBBBBBBB",
         "price": 75
